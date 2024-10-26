@@ -27,6 +27,6 @@ App\Entity\Measurement:
       - NotBlank:
           groups: ['create', 'edit']
       - Range:
-          min: −273,15
+          min: -30
           max: 58
           groups: ['create', 'edit']
