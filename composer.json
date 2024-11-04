@@ -15,6 +15,11 @@
         "symfony/yaml": "6.3.*"
     },
     "require-dev": {
+<<<<<<< Updated upstream
+=======
+        "symfony/maker-bundle": "*",
+        "symfony/web-profiler-bundle": "^6.3"
+>>>>>>> Stashed changes
     },
     "config": {
         "allow-plugins": {
